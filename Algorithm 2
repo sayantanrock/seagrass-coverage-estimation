@@ -10,7 +10,7 @@ from scipy.spatial import distance
 from scipy.signal import savgol_filter
 import matplotlib.pyplot as plt
 
-os.chdir('..\raw extracted data')
+os.chdir('\raw extracted data')
 
 n_cluster = 3  # Number of cluster of GMM
 
@@ -141,7 +141,7 @@ for filename in filegroup:
     l1.append(len(smooth_lines))
     print(ind, len(smooth_lines))
     
-    np.savetxt(r'C:\\Users\\says\\Documents\\Python Scripts\\Eel Grass Coordinates\\quantification_'+ str(n_cluster)+'_new\\'+ filegroup1[count], list(zip(z1.index,p)), fmt='%s\t')
+    np.savetxt(list(zip(z1.index,p)), fmt='%s\t')
 
     count=count+1
     ind=ind+1
