@@ -20,7 +20,7 @@ This work is an extension of our previous work on Seagrass detection from underw
 * Matplotlib
 * Numpy
 * Sklearn
-[![Watch the video]](https://youtu.be/vt5fpE0bzSY)
-[![Demo Video](img.youtube.com/vi/NZkDht-DgbA?si=4wUz1_J5WFtsCWeO/hqdefault.jpg)](https://www.youtube.com/watch?v=NZkDht-DgbA&list=PLgOY2SnZ2Tu7iDmDGWtV7YrQaWbuJlmbk)
+
+[![Demo Video]](https://www.youtube.com/watch?v=NZkDht-DgbA&list=PLgOY2SnZ2Tu7iDmDGWtV7YrQaWbuJlmbk)
 
 
