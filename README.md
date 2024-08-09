@@ -9,7 +9,7 @@ This project has been done at the Department of Applied Mathematics and Computer
 
 ### Paper
 
-This work is an extension of our previous work on Seagrass detection from underwater videos: [Sengupta et al 2020](https://www.sciencedirect.com/science/article/pii/S1574954120300339?via%3Dihub) , where we use similar features from the same video transects to estimate *presence/absence* status of seagrass.
+This work is an extension of our previous work on Seagrass detection from underwater videos: [Sengupta et al 2020](https://www.sciencedirect.com/science/article/pii/S1574954120300339?via%3Dihub) , where we use similar features from the same video transects to estimate *presence/absence* status of seagrass.[[Demo Video]](https://www.youtube.com/watch?v=NZkDht-DgbA&list=PLgOY2SnZ2Tu7iDmDGWtV7YrQaWbuJlmbk)
 
 ## Software 
 #### Dependencies
@@ -21,6 +21,6 @@ This work is an extension of our previous work on Seagrass detection from underw
 * Numpy
 * Sklearn
 
-[![Demo Video]](https://www.youtube.com/watch?v=NZkDht-DgbA&list=PLgOY2SnZ2Tu7iDmDGWtV7YrQaWbuJlmbk)
+
 
 
