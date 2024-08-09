@@ -9,4 +9,10 @@ This project has been done at the Department of Applied Mathematics and Computer
 
 ### Paper
 
-This work is an extension of our previous work on Seagrass detection from underwater videos: [Sengupta et al 2020](https://www.sciencedirect.com/science/article/pii/S1574954120300339?via%3Dihub)
+This work is an extension of our previous work on Seagrass detection from underwater videos: [Sengupta et al 2020](https://www.sciencedirect.com/science/article/pii/S1574954120300339?via%3Dihub) , where we use similar features from the same video transects to estimate *presence/absence* status of seagrass.
+
+## Software 
+#### Dependencies
+* Python 2.7 ( Anaconda installation)
+* pylsd 0.0.2 [pip install pylsd](https://pypi.org/project/pylsd/)
+* Opencv 4.10.0.84 [pip install opencv-python](https://pypi.org/project/opencv-python/))
