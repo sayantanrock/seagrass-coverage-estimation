@@ -21,6 +21,6 @@ This work is an extension of our previous work on Seagrass detection from underw
 * Numpy
 * Sklearn
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://img.youtube.com/vi/NZkDht-DgbA?si=KC79qoxkzSE8Ddr7/hqdefault.jpg))](https://www.youtube.com/watch?v=NZkDht-DgbA&list=PLgOY2SnZ2Tu7iDmDGWtV7YrQaWbuJlmbk)
+[![Demo Video]([https://img.youtube.com/vi/NZkDht-DgbA?si=KC79qoxkzSE8Ddr7/hqdefault.jpg])(https://www.youtube.com/watch?v=NZkDht-DgbA&list=PLgOY2SnZ2Tu7iDmDGWtV7YrQaWbuJlmbk)
 
 https://img.youtube.com/vi/NZkDht-DgbA?si=KC79qoxkzSE8Ddr7/hqdefault.jpg
