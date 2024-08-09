@@ -15,4 +15,8 @@ This work is an extension of our previous work on Seagrass detection from underw
 #### Dependencies
 * Python 2.7 ( Anaconda installation)
 * pylsd 0.0.2 ([pip install pylsd](https://pypi.org/project/pylsd/))
-* Opencv 4.10.0.84 ([pip install opencv-python](https://pypi.org/project/opencv-python/))
+* Opencv 3.4.0.14 ([pip install opencv-python](https://pypi.org/project/opencv-python/3.4.0.14/))
+* Scipy
+* Matplotlib
+* Numpy
+* Sklearn
