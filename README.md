@@ -9,4 +9,4 @@ This project has been done at the Department of Applied Mathematics and Computer
 
 ### Paper
 
-This work is an extension of our previous work on Seagrass detection from underwater videos: [Sengupta et al 2020]([https://www.hs-fulda.de/fileadmin/user_upload/FB_ET/Projekte_Forschung/Enview_Jaeger/EnView_News_2018-04/Conference_Kobe_2018_Seagrass.pdf](https://www.sciencedirect.com/science/article/pii/S1574954120300339?via%3Dihub)) 
+This work is an extension of our previous work on Seagrass detection from underwater videos: [Sengupta et al 2020](https://www.sciencedirect.com/science/article/pii/S1574954120300339?via%3Dihub)
