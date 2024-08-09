@@ -20,6 +20,9 @@ This work is an extension of our previous work on Seagrass detection from underw
 * Matplotlib
 * Numpy
 * Sklearn
-![122_1_seagrass](https://github.com/user-attachments/assets/7a6dfc6c-64c2-4f76-a325-91633eb52efb)  ![122_1_lsd](https://github.com/user-attachments/assets/2a00f39e-acd1-4cdb-80d8-fcb4a6cc7349)
+* 
+Raw Frame | Extracted feature
+--- | ---
+![122_1_seagrass](https://github.com/user-attachments/assets/7a6dfc6c-64c2-4f76-a325-91633eb52efb) | ![122_1_lsd](https://github.com/user-attachments/assets/2a00f39e-acd1-4cdb-80d8-fcb4a6cc7349)
 
 
